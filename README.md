@@ -1,16 +1,15 @@
-# dailytask
+# Daily Task App
 
-A new Flutter project.
+A simple daily task app , built with Flutter and Dart. This app helps you keep track of your tasks by showing how many tasks are completed and how many are remaining.  
 
-## Getting Started
+State management and navigation are handled using GetX, making the app reactive and easy to maintain.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Track completed tasks
+- ⏳ View remaining tasks
+- 🔄 Reactive UI using **GetX**
+- 📱 Simple and clean interface
+- 🚀 Easy navigation between pages with GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
